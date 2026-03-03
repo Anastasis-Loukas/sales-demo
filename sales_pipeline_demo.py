@@ -8,7 +8,7 @@ Run:
 from collections import defaultdict
 
 ENVIRONMENT = "dev"
-REPORT_TITLE = "Sales Pipeline Demo by country"
+REPORT_TITLE = "Sales Pipeline Demo by Country"
 
 
 def extract_raw_orders():
